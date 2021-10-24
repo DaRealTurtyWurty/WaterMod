@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "WW",
+    "WW"
+  ],
+  "key":
+  {
+    "W":
+    {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result":
+  {
+    "item": "watermod:water_bucket_super"
+  }
+}

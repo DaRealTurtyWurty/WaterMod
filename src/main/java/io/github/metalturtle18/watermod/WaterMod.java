@@ -112,6 +112,14 @@ public class WaterMod {
                     )
             );
 
+            registry.register(
+                    "water_bucket_super",
+                    () -> new Item(
+                          new Item.Properties()
+                                  .tab(CreativeModeTab.TAB_MISC)
+                    )
+            );
+
             registry.register(FMLJavaModLoadingContext.get().getModEventBus());
             LOGGER.info("Water Mod registered tools");
         }
