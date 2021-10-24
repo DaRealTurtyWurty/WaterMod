@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "WW",
+    "WS",
+    " S"
+  ],
+  "key":
+  {
+    "W":
+    {
+      "item": "minecraft:water_bucket"
+    },
+    "S":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "watermod:water_axe"
+  }
+}
